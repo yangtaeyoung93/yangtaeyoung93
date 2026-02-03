@@ -16,6 +16,20 @@
 ---
 ## 🛠 Tech Stack
 
+### Backend
+![Java](https://img.shields.io/badge/Java-17+-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-ORM-red?style=for-the-badge)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-8.x-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-8.x-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Messaging / Streaming
+![Kafka](https://img.shields.io/badge/Kafka-Event--Driven-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+
 ## 🎯 Goal
 
 > “안정적인 시스템을 만들 줄 아는 개발자에서  
