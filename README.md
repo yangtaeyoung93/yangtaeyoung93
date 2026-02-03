@@ -36,3 +36,8 @@
 > **확장 가능한 플랫폼을 설계하는 개발자**로 성장하는 것”
 
 지금보다 한 단계 더 복잡한 문제를 다룰 수 있는 개발자가 되는 것을 목표로 하고 있습니다.
+
+
+---
+## 🪧 개인 블로그 
+[![Blog](https://img.shields.io/badge/Blog-Tech%20Notes-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://velog.io/@yangtaeyoung93/posts)
